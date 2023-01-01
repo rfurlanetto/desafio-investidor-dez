@@ -7,11 +7,7 @@
 > 
 > `npm -> 19.3`
 > 
-> `mysql -> `
-> 
-> `Laravel -> 9`
-> 
-> `Bootstrap -> 8.1`
+> `mysql -> 5.7.40`
 
 ### Download Project
 > `git clone rfurlanetto/desafio-investidor-10`
